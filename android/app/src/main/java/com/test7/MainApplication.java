@@ -1,6 +1,7 @@
 package com.test7;
 
 import android.app.Application;
+import com.facebook.FacebookSdk;
 import android.content.Context;
 import android.net.Uri;
 
